@@ -1,4 +1,4 @@
-# Deep-Learning-image-classification
+# Fastai-Deep-Learning-image-classification
 Deep Learning with Pytorch
 
 The key outcome is that we'll have trained an image classifier which can recognize pet breeds at state of the art accuracy. 
